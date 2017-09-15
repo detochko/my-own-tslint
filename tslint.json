@@ -1,0 +1,15 @@
+{
+	"extends": "tslint:recommended",
+	"rules": {
+		"no-console": [false],
+		"quotemark": [true, "single", "jsx-double"],
+		"ordered-imports": false,
+		"member-ordering": [false],
+		"object-literal-sort-keys": [false],
+		"trailing-comma": [true],
+		"indent": [true, "tabs"],
+		"max-line-length": [true, 120],
+		"semicolon": [true, "always"],
+		"object-literal-key-quotes": [true, "as-needed"]
+	}
+}

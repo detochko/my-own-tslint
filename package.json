@@ -1,0 +1,8 @@
+{
+  "name": "detochko-my-own-tslint",
+  "version": "1.0.0",
+  "description": "TSLint rules for my projects",
+  "main": "tslint.json",
+  "author": "detochko@gmail.com",
+  "license": "MIT"
+}
